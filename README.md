@@ -1,5 +1,8 @@
 # simple_elastix_mac_m1_install_notes
 I encountered many errors following the steps to build the library, here's the summary and hope it helps people!
+<br /> I'm on the "develop" branch due to potential compiling error in the master branch experienced by some users
+<br /> To clone develop branch, do "git clone --branch develop https:......"
+
 
 ## Can't find Ruby, Ruby_EXECUTABLE_LIBRARY etc
 If you're only using Python, you can change Wrap Ruby to False
